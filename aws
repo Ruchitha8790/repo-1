@@ -11,3 +11,7 @@ if err == nil {
 	return <-resultWorkerErr
 }
 return multierror.Append(err, <-resultWorkerErr)
+hello ffriends how are you 
+this add the data in aws
+where are you from 
+im waiting for you omliy
